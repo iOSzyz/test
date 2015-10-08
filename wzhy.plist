@@ -13,6 +13,22 @@
 					<key>url</key>
 					<string>http://172.20.90.244:8088/wuzhen/upload/appVersion/20151008123000470709.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://172.20.90.244:8088/wuzhen/upload/appVersion/Icon_wzhy@2x.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://172.20.90.244:8088/wuzhen/upload/appVersion/Icon_wzhy.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
