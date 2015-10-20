@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.20.90.244:8088/wuzhen/upload/appVersion/20151008123000470709.ipa</string>
+					<string>https://service.wicwuzhen.cn:8088/upload/appVersion/InCo_Ios_hy.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://172.20.90.244:8088/wuzhen/upload/appVersion/Icon_wzhy@2x.png</string>
+					<string>https://service.wicwuzhen.cn:8088/upload/appVersion/InCo_Pic_hy_1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://172.20.90.244:8088/wuzhen/upload/appVersion/Icon_wzhy.png</string>
+					<string>https://service.wicwuzhen.cn:8088/upload/appVersion/InCo_Pic_hy_2.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
