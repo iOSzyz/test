@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tjzl.wuzhen.huiyi</string>
+				<string>com.rongtu.rongtuhui</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>WIC</string>
+				<string>融图汇</string>
 			</dict>
 		</dict>
 	</array>
