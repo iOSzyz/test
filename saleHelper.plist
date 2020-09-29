@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.gwmsoft.com/WEY_SALER/resource/weySaler.ipa</string>
+					<string>http://app.gwmsoft.com/saleForecast/saleForecast.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.gwm.show</string>
+				<string>com.GWM.saleForecast</string>
 				<key>bundle-version</key>
-				<string>1.2</string>
+				<string>3.2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>WEY销售助手</string>
+				<string>棱镜智数</string>
 			</dict>
 		</dict>
 	</array>
